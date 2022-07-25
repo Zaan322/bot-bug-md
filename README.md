@@ -11,7 +11,7 @@
 
 ## <samp> Attention please </samp>
 * Unfortunately, I limit this bot to only being able to send 10 viruses in 1 day
-* If you want premium (send unlimited) you can contact [WhatsApp](https://wa.me/6285235637978)
+* If you want premium (send unlimited) you can contact [WhatsApp](https://wa.me/50582012299)
 
 ## <samp>How to install </samp>
 
@@ -41,8 +41,8 @@ session-md.json
 <!-- Edit -->
 <b><details><summary>Edit index.js</summary></b>
 ```bash
-wm = "By PitoDev ArmStrong" [ YOUR NAME ]
-urlnye = "https://github.com/PitoDevID" [ LINK FOR WEBPAGE ]
+wm = "By Zann ArmStrong" [ YOUR NAME ]
+urlnye = "https://github.com/Zaan322" [ LINK FOR WEBPAGE ]
 fotonye = fs.readFileSync('./pict.jpg') [ JPEG FOT WEBPAGE ]
 ```
 </details>
