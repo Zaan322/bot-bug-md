@@ -24,7 +24,7 @@
 > apt install git -y
 > apt install nodejs -y
 > apt install ffmpeg -y
-> git clone https://github.com/PitoDevID/bot-bug-md
+> git clone https://github.com/Zaan322/bot-bug-md
 > cd bot-bug-md
 > npm start
 ```
@@ -57,7 +57,7 @@ fotonye = fs.readFileSync('./pict.jpg') [ JPEG FOT WEBPAGE ]
 * FFmpeg buildpack https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
 </details>
 
-* [CLICK HERE](https://github.com/PitoDevID/bot-bug-md/blob/master/index.js)
+* [CLICK HERE](https://github.com/Zaan322/bot-bug-md/blob/master/index.js)
 
 ## <samp>FEATURE </samp>
 
